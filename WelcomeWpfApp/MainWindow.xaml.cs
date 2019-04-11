@@ -24,5 +24,15 @@ namespace WelcomeWpfApp
         {
             InitializeComponent();
         }
+
+        private void TextBoxName_LostFocus(object sender, RoutedEventArgs e)
+        {
+            labelFirstStatement.Content = "Witaj " + textBoxName.Text + " " + textBoxSurrname;
+        }
+
+        private void TextBoxSurrname_LostFocus(object sender, RoutedEventArgs e)
+        {
+            labelFirstStatement.Content = "Witaj " + textBoxName.Text + " " + textBoxSurrname;
+        }
     }
 }
