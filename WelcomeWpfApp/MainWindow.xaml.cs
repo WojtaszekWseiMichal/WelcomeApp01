@@ -45,5 +45,14 @@ namespace WelcomeWpfApp
             else
                 labelSecondStatement.Content = "You are pensioner already";
         }
+
+        private void ButtonClear_Click(object sender, RoutedEventArgs e)
+        {
+            textBoxName.Text = "";
+            textBoxSurrname.Text = "";
+            textBoxAge.Text = "";
+            labelFirstStatement.Content = "";
+            labelSecondStatement.Content = "";
+        }
     }
 }
