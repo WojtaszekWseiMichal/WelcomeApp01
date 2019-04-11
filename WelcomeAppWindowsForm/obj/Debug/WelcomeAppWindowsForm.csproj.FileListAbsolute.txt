@@ -1,0 +1,10 @@
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\bin\Debug\WelcomeAppWindowsForm.exe.config
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\bin\Debug\WelcomeAppWindowsForm.exe
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\bin\Debug\WelcomeAppWindowsForm.pdb
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.csprojAssemblyReference.cache
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.Form1.resources
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.Properties.Resources.resources
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.csproj.GenerateResource.cache
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.csproj.CoreCompileInputs.cache
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.exe
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppWindowsForm\obj\Debug\WelcomeAppWindowsForm.pdb

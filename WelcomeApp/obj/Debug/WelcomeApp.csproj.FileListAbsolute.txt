@@ -1,0 +1,14 @@
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.exe.config
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.exe
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\bin\Debug\WelcomeApp.pdb
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.csprojAssemblyReference.cache
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.exe
+C:\Users\wojta\source\repos\WelcomeApp\WelcomeApp\obj\Debug\WelcomeApp.pdb
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\bin\Debug\WelcomeApp.exe.config
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\bin\Debug\WelcomeApp.exe
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\bin\Debug\WelcomeApp.pdb
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\obj\Debug\WelcomeApp.csprojAssemblyReference.cache
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\obj\Debug\WelcomeApp.csproj.CoreCompileInputs.cache
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\obj\Debug\WelcomeApp.exe
+C:\Users\wojta\Source\Repos\WelcomeApp01\WelcomeApp\obj\Debug\WelcomeApp.pdb

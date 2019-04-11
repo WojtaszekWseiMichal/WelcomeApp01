@@ -1,0 +1,7 @@
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\bin\Debug\WelcomeAppVBDialog.exe.config
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\bin\Debug\WelcomeAppVBDialog.exe
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\bin\Debug\WelcomeAppVBDialog.pdb
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\obj\Debug\WelcomeAppVBDialog.csprojAssemblyReference.cache
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\obj\Debug\WelcomeAppVBDialog.csproj.CoreCompileInputs.cache
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\obj\Debug\WelcomeAppVBDialog.exe
+C:\Users\wojta\source\repos\WelcomeApp01\WelcomeAppVBDialog\obj\Debug\WelcomeAppVBDialog.pdb
