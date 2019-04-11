@@ -27,12 +27,12 @@ namespace WelcomeWpfApp
 
         private void TextBoxName_LostFocus(object sender, RoutedEventArgs e)
         {
-            labelFirstStatement.Content = "Witaj " + textBoxName.Text + " " + textBoxSurrname;
+            labelFirstStatement.Content = "Welcome " + textBoxName.Text + " " + textBoxSurrname.Text;
         }
 
         private void TextBoxSurrname_LostFocus(object sender, RoutedEventArgs e)
         {
-            labelFirstStatement.Content = "Witaj " + textBoxName.Text + " " + textBoxSurrname;
+            labelFirstStatement.Content = "Welcome " + textBoxName.Text + " " + textBoxSurrname.Text;
         }
 
         private void TextBoxAge_LostFocus(object sender, RoutedEventArgs e)
@@ -40,7 +40,7 @@ namespace WelcomeWpfApp
             int age = Convert.ToInt32(textBoxAge.Text);
             if (age < 67)
             {
-                labelSecondStatement.Content = string.Format("You will become pensioner in {0}", 67 - age);
+                labelSecondStatement.Content = string.Format("You will become pensioner in {0} years", 67 - age);
             }
             else
                 labelSecondStatement.Content = "You are pensioner already";
