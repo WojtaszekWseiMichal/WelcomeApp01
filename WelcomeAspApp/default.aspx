@@ -15,15 +15,15 @@
             Surrname :&nbsp; <asp:TextBox ID="idSurrname" runat="server"></asp:TextBox>
             <br />
             Age :&nbsp;
-            <asp:TextBox ID="idAge" runat="server" OnTextChanged="TextBox3_TextChanged"></asp:TextBox>
+            <asp:TextBox ID="idAge" runat="server"></asp:TextBox>
             <br />
             <br />
             <asp:Button ID="idButtonSend" runat="server" Text="Send" OnClick="idButtonSend_Click" />
             <br />
             <br />
-            <asp:Label ID="idFirstStatment" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="idFirstStatment" runat="server"></asp:Label>
             <br />
-            <asp:Label ID="idSecondStatment" runat="server" Text="Label"></asp:Label>
+            <asp:Label ID="idSecondStatment" runat="server"></asp:Label>
         </div>
     </form>
 </body>
